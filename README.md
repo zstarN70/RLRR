@@ -2,7 +2,7 @@
 
 ------
 This repository is the official implementation of RLRR. In this study, we approach the problem from the perspective of Singular Value Decomposition (SVD) of pre-trained parameter matrices, providing insights into the tuning dynamics of existing methods.
-![在这里插入图片描述](https://github.com/zstarN70/SCOAD/blob/main/framework.png)
+![在这里插入图片描述](https://github.com/zstarN70/RLRR/blob/main/framework.png)
 
 ## Usage
 
