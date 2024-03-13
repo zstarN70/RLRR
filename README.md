@@ -53,3 +53,5 @@ If this project is helpful for you, you can cite our paper:
 The code is built upon [timm](https://github.com/jeonsworld/ViT-pytorch). The processing of the vtab-1k dataset refers to [vpt](https://github.com/KMnP/vpt), [vtab github repo](https://github.com/google-research/task_adaptation/tree/master/task_adaptation/data), and [NOAH](https://github.com/ZhangYuanhan-AI/NOAH).
 
 
+### Link
+As I am preparing for my graduation, the code was prepared in a hurry, and many details were not checked in time. If you have any questions, please contact me：zstar@xauat.edu.cn
