@@ -60,4 +60,4 @@ The code is built upon [timm](https://github.com/jeonsworld/ViT-pytorch). The pr
 
 
 ### Link
-As I am preparing for my graduation, the code was prepared in a hurry, and many details were not checked in time. If you have any questions, please contact me：zstar@xauat.edu.cn
+If you have any questions, please contact me：zstar@xauat.edu.cn
