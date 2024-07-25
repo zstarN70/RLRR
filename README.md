@@ -46,7 +46,13 @@ CUDA_VISIBLE_DEVICES=0 python  train_fgvc.py --dataset_name=kitti
 ### Citation
 If this project is helpful for you, you can cite our paper:
 ```
-
+@inproceedings{dong2024low,
+  title={Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach},
+  author={Dong, Wei and Zhang, Xing and Chen, Bihui and Yan, Dawei and Lin, Zhijun and Yan, Qingsen and Wang, Peng and Yang, Yang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16101--16110},
+  year={2024}
+}
 ```
 
 ### Acknowledgement
